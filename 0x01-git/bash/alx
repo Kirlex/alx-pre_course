@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "ALX"
+root@f05b4e8f3d81:/alx-pre_course/0.01-git# cat>bash/school
+#!/bin/bash
+echo "School"
+root@f05b4e8f3d81:/alx-pre_course/0x01-git# git add .
+
+
+
+
+#!/bin/bash
+echo "alx"
