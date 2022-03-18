@@ -10,3 +10,5 @@ root@f05b4e8f3d81:/alx-pre_course/0x01-git# git add .
 
 #!/bin/bash
 echo "alx"
+#!/bin bash
+echo "ALX School is cool!"
